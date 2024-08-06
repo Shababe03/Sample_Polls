@@ -1,7 +1,25 @@
 li a {
     color: green;
-}
+} 
 
 body {
     background: white url("images/background.gif") no-repeat;
+}
+
+
+.questions{
+    /* background-color:black; */
+    /* min-height: 20vh; */
+    /* z-index: 5; */
+    height: 10vh;
+    margin-left: 10vw;
+    margin-top: 10vh;
+    border: white;
+    border-radius: 10px;
+    background-color: rgb(255, 251, 0);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 3vw;
+    font-size: larger;
 }
