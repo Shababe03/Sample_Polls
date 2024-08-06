@@ -8,9 +8,6 @@ body {
 
 
 .questions{
-    /* background-color:black; */
-    /* min-height: 20vh; */
-    /* z-index: 5; */
     height: 10vh;
     margin-left: 10vw;
     margin-top: 10vh;
@@ -22,4 +19,6 @@ body {
     align-items: center;
     padding-left: 3vw;
     font-size: larger;
+    margin-right: 10vh;
+    text-align: center;
 }
